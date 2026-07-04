@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="<p align="center">
   <img src="Assets.jpg" alt="Learn Programming Library Banner" width="100%">
-</p>" alt="Learn Programming Library Banner" width="100%">
 </p>
 
 ![GitHub stars](https://img.shields.io/github/stars/maheshwari060/learn-programming-library?style=for-the-badge)
