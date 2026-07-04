@@ -1,32 +1,62 @@
 # 📚 Learn Programming Library
 
-A curated collection of free programming books, tutorials, roadmaps, APIs, cheat sheets, and learning resources for developers.
+![GitHub stars](https://img.shields.io/github/stars/maheshwari060/learn-programming-library?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/maheshwari060/learn-programming-library?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/maheshwari060/learn-programming-library?style=for-the-badge)
 
-## 📖 Categories
+A curated collection of **free programming books, tutorials, roadmaps, APIs, cheat sheets, interview questions, and learning resources** for developers.
 
-- 🐍 Python
-- ☕ Java
-- 🌐 JavaScript
-- 🗄️ SQL
-- 📊 Data Science
-- 🤖 Machine Learning
-- 🧠 Artificial Intelligence
-- ☁️ Cloud Computing
-- 🔗 Public APIs
-- 📚 Free Programming Books
-- 🎥 Free Courses
-- 🛣️ Learning Roadmaps
-- 💻 Coding Practice Platforms
-- 📝 Interview Preparation
+---
 
-## 🎯 Goal
+# 📑 Table of Contents
 
-The goal of this repository is to help students, beginners, and professionals find high-quality free learning resources in one place.
+- 📖 About
+- 📚 Resources
+- 🛣️ Roadmaps
+- 🤝 Contributing
+- 📜 License
 
-## ⭐ Contribute
+---
 
-Contributions are welcome! Feel free to suggest resources or submit a pull request.
+# 📚 Resources
 
-## 📜 License
+| Topic | Link |
+|--------|------|
+| 🐍 Python | resources/python.md |
+| 🗄️ SQL | resources/sql.md |
+| ☕ Java | resources/java.md |
+| 🌐 JavaScript | resources/javascript.md |
+| 🌿 Git | resources/git.md |
+| 🐧 Linux | resources/linux.md |
+| 💻 C | resources/c.md |
+| 🚀 C++ | resources/cpp.md |
+| 📊 Data Science | resources/data-science.md |
+| 🤖 Machine Learning | resources/machine-learning.md |
+| 🧠 Artificial Intelligence | resources/artificial-intelligence.md |
+| ☁️ Cloud Computing | resources/cloud-computing.md |
+
+---
+
+# 🛣️ Roadmaps
+
+| Roadmap | Link |
+|----------|------|
+| 🐍 Python | roadmaps/python-roadmap.md |
+| 📊 Data Analyst | roadmaps/data-analyst-roadmap.md |
+| 🤖 Machine Learning | roadmaps/machine-learning-roadmap.md |
+| 🧠 Artificial Intelligence | roadmaps/ai-roadmap.md |
+| ☁️ Cloud Computing | roadmaps/cloud-roadmap.md |
+
+---
+
+# 🤝 Contributing
+
+Contributions are welcome!
+
+If you know any useful learning resources, feel free to open a Pull Request.
+
+---
+
+# 📜 License
 
 MIT License
