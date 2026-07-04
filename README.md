@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.jpg" alt="Learn Programming Library Banner" width="100%">
+</p>
 # 📚 Learn Programming Library
 
 ![GitHub stars](https://img.shields.io/github/stars/maheshwari060/learn-programming-library?style=for-the-badge)
