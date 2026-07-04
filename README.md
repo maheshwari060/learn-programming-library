@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets.jpg" alt="Learn Programming Library Banner" width="100%">
+  <img src="Assets/banner.jpg" alt="Learn Programming Library Banner" width="100%">
 </p>
 # 📚 Learn Programming Library
 
